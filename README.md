@@ -8,3 +8,5 @@ https://www.mathworks.com/matlabcentral/fileexchange/26160-carving-a-dinosaur
 
 References:
 https://www.mathworks.com/matlabcentral/fileexchange/26160-carving-a-dinosaur
+https://www.researchgate.net/figure/oxel-carving-approach-for-3D-reconstruction-Process-with-4-cameras-around-the-subject_fig1_262362824
+https://youtu.be/k3lPkSDtrBU?si=E7bDZqh0jxKbDdC9
